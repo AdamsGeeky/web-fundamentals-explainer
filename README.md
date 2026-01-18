@@ -1,11 +1,12 @@
 # Web Fundamentals Explainer Project
 
+
 ## Project Overview
 This project explains how the web works from a systems perspective.
 The goal is to demonstrate clear understanding of client–server architecture,
 data flow, and the roles of core web technologies.
-
 This is not a coding-heavy project.
+
 It is a thinking and communication project.
 
 ---
